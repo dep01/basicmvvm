@@ -20,23 +20,23 @@ dev_dependencies:<br/>
 
 ## structure folder
 
-|android<br/>
-|assets<br/>
-|build<br/>
-|ios<br/>
-|lib<br/>
-|---|app<br/>
-|------|---locator.dart<br/>
-|------|---routes.dart<br/>
-|------|---third_party_app.dart<br/>
-|---|model(this folder for data Model,you can generate from https://app.quicktype.io/)<br/>
-|---|provider<br/>
-|---|screen<br/>
-|------|---model(this folder for ViewModel)<br/>
-|------|------|---login_vm.dart<br/>
-|------|---login.dart(this file is a view)<br/>
-|---|utils(I use this like helper)<br/>
-|---|widgets(this folder for reusable component)<br/>
-|---|main.dart<br/>
-|pubspec.yaml<br/>
-|README.md
+|-- android<br/>
+|-- assets<br/>
+|-- build<br/>
+|-- ios<br/>
+|-- lib<br/>
+|---|-- app<br/>
+|---|---└-- locator.dart<br/>
+|---|---|-- routes.dart<br/>
+|---|---└-- third_party_app.dart<br/>
+|---|-- model(this folder for data Model,you can generate from https://app.quicktype.io/)<br/>
+|---|-- provider<br/>
+|---|-- screen<br/>
+|---|---└-- model(this folder for ViewModel)<br/>
+|---|---|---└-- login_vm.dart<br/>
+|---|---└-- login.dart(this file is a view)<br/>
+|---|-- utils(I use this like helper)<br/>
+|---|-- widgets(this folder for reusable component)<br/>
+|---└-- main.dart<br/>
+|-- pubspec.yaml<br/>
+└-- README.md
