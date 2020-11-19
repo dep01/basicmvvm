@@ -6,7 +6,7 @@ I hope you have learn the basic of flutter before you're clone it.
 ## on pubspec.yaml you need to add packages
 
 dependencies:<br/>
-__ auto_route: ^0.5.0<br/>
+&nbsp;&nbsp;auto_route: ^0.5.0<br/>
 __ get_it: ^4.0.2<br/>
 __ injectable: ^0.4.0+1<br/>
 __ stacked: ^1.7.6<br/>
