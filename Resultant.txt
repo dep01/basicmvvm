@@ -1,0 +1,1460 @@
+Folder PATH listing for volume DATA
+Volume serial number is 6CB1-F0E0
+D:.
+|   .gitignore
+|   .metadata
+|   .packages
+|   basicmvvm.iml
+|   pubspec.lock
+|   pubspec.yaml
+|   README.md
+|   Resultant.txt
+|   
++---.dart_tool
+|   |   package_config.json
+|   |   
+|   +---build
+|   |   +---098d3ee73e6cc294616d3a2e2c3c81ad
+|   |   |       asset_graph.json
+|   |   |       
+|   |   +---entrypoint
+|   |   |       .packageLocations
+|   |   |       build.dart
+|   |   |       build.dart.snapshot
+|   |   |       
+|   |   \---generated
+|   |       \---basicmvvm
+|   |           \---lib
+|   |               \---app
+|   |                       thid_party_app.injectable.json
+|   |                       
+|   +---build_resolvers
+|   |       sdk.sum
+|   |       sdk.sum.deps
+|   |       
+|   +---flutter_build
+|   |   \---bf6d01e593a25c60f0e5e95fe487c43e
+|   |           .filecache
+|   |           app.dill
+|   |           debug_android_application.stamp
+|   |           flutter_assets.d
+|   |           gen_localizations.stamp
+|   |           kernel_snapshot.d
+|   |           kernel_snapshot.stamp
+|   |           outputs.json
+|   |           
+|   \---pub
++---.idea
+|   |   modules.xml
+|   |   workspace.xml
+|   |   
+|   +---libraries
+|   |       Dart_SDK.xml
+|   |       KotlinJavaRuntime.xml
+|   |       
+|   \---runConfigurations
+|           main_dart.xml
+|           
++---android
+|   |   .gitignore
+|   |   basicmvvm_android.iml
+|   |   build.gradle
+|   |   gradle.properties
+|   |   gradlew
+|   |   gradlew.bat
+|   |   local.properties
+|   |   settings.gradle
+|   |   
+|   +---.gradle
+|   |   +---5.6.2
+|   |   |   |   gc.properties
+|   |   |   |   
+|   |   |   +---executionHistory
+|   |   |   |       executionHistory.bin
+|   |   |   |       executionHistory.lock
+|   |   |   |       
+|   |   |   +---fileChanges
+|   |   |   |       last-build.bin
+|   |   |   |       
+|   |   |   +---fileContent
+|   |   |   |       fileContent.lock
+|   |   |   |       
+|   |   |   +---fileHashes
+|   |   |   |       fileHashes.bin
+|   |   |   |       fileHashes.lock
+|   |   |   |       resourceHashesCache.bin
+|   |   |   |       
+|   |   |   +---javaCompile
+|   |   |   |       classAnalysis.bin
+|   |   |   |       jarAnalysis.bin
+|   |   |   |       javaCompile.lock
+|   |   |   |       taskHistory.bin
+|   |   |   |       
+|   |   |   \---vcsMetadata-1
+|   |   +---buildOutputCleanup
+|   |   |       buildOutputCleanup.lock
+|   |   |       cache.properties
+|   |   |       outputFiles.bin
+|   |   |       
+|   |   \---vcs-1
+|   |           gc.properties
+|   |           
+|   +---app
+|   |   |   build.gradle
+|   |   |   
+|   |   \---src
+|   |       +---debug
+|   |       |       AndroidManifest.xml
+|   |       |       
+|   |       +---main
+|   |       |   |   AndroidManifest.xml
+|   |       |   |   
+|   |       |   +---java
+|   |       |   |   \---io
+|   |       |   |       \---flutter
+|   |       |   |           \---plugins
+|   |       |   |                   GeneratedPluginRegistrant.java
+|   |       |   |                   
+|   |       |   +---kotlin
+|   |       |   |   \---com
+|   |       |   |       \---example
+|   |       |   |           \---basicmvvm
+|   |       |   |                   MainActivity.kt
+|   |       |   |                   
+|   |       |   \---res
+|   |       |       +---drawable
+|   |       |       |       launch_background.xml
+|   |       |       |       
+|   |       |       +---mipmap-hdpi
+|   |       |       |       ic_launcher.png
+|   |       |       |       
+|   |       |       +---mipmap-mdpi
+|   |       |       |       ic_launcher.png
+|   |       |       |       
+|   |       |       +---mipmap-xhdpi
+|   |       |       |       ic_launcher.png
+|   |       |       |       
+|   |       |       +---mipmap-xxhdpi
+|   |       |       |       ic_launcher.png
+|   |       |       |       
+|   |       |       +---mipmap-xxxhdpi
+|   |       |       |       ic_launcher.png
+|   |       |       |       
+|   |       |       \---values
+|   |       |               styles.xml
+|   |       |               
+|   |       \---profile
+|   |               AndroidManifest.xml
+|   |               
+|   \---gradle
+|       \---wrapper
+|               gradle-wrapper.jar
+|               gradle-wrapper.properties
+|               
++---assets
+|   \---images
+|           ic_splash_1.png
+|           
++---build
+|   |   cache.dill.track.dill
+|   |   
+|   +---65129dedac6fcfe0d8829aec9bf579ff
+|   |       gen_localizations.stamp
+|   |       
+|   +---app
+|   |   +---generated
+|   |   |   +---ap_generated_sources
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   +---not_namespaced_r_class_sources
+|   |   |   |   \---debug
+|   |   |   |       \---r
+|   |   |   |           +---androidx
+|   |   |   |           |   +---activity
+|   |   |   |           |   |       R.java
+|   |   |   |           |   |       
+|   |   |   |           |   +---arch
+|   |   |   |           |   |   \---core
+|   |   |   |           |   |           R.java
+|   |   |   |           |   |           
+|   |   |   |           |   +---core
+|   |   |   |           |   |       R.java
+|   |   |   |           |   |       
+|   |   |   |           |   +---customview
+|   |   |   |           |   |       R.java
+|   |   |   |           |   |       
+|   |   |   |           |   +---fragment
+|   |   |   |           |   |       R.java
+|   |   |   |           |   |       
+|   |   |   |           |   +---lifecycle
+|   |   |   |           |   |   |   R.java
+|   |   |   |           |   |   |   
+|   |   |   |           |   |   +---livedata
+|   |   |   |           |   |   |   |   R.java
+|   |   |   |           |   |   |   |   
+|   |   |   |           |   |   |   \---core
+|   |   |   |           |   |   |           R.java
+|   |   |   |           |   |   |           
+|   |   |   |           |   |   \---viewmodel
+|   |   |   |           |   |           R.java
+|   |   |   |           |   |           
+|   |   |   |           |   +---loader
+|   |   |   |           |   |       R.java
+|   |   |   |           |   |       
+|   |   |   |           |   +---savedstate
+|   |   |   |           |   |       R.java
+|   |   |   |           |   |       
+|   |   |   |           |   +---versionedparcelable
+|   |   |   |           |   |       R.java
+|   |   |   |           |   |       
+|   |   |   |           |   \---viewpager
+|   |   |   |           |           R.java
+|   |   |   |           |           
+|   |   |   |           \---com
+|   |   |   |               \---example
+|   |   |   |                   \---basicmvvm
+|   |   |   |                           R.java
+|   |   |   |                           
+|   |   |   +---res
+|   |   |   |   +---pngs
+|   |   |   |   |   \---debug
+|   |   |   |   \---resValues
+|   |   |   |       \---debug
+|   |   |   \---source
+|   |   |       \---buildConfig
+|   |   |           \---debug
+|   |   |               \---com
+|   |   |                   \---example
+|   |   |                       \---basicmvvm
+|   |   |                               BuildConfig.java
+|   |   |                               
+|   |   +---intermediates
+|   |   |   +---annotation_processor_list
+|   |   |   |   \---debug
+|   |   |   |           annotationProcessors.json
+|   |   |   |           
+|   |   |   +---apk_list
+|   |   |   |   \---debug
+|   |   |   |       \---mainApkListPersistenceDebug
+|   |   |   |               apk-list.gson
+|   |   |   |               
+|   |   |   +---blame
+|   |   |   |   \---res
+|   |   |   |       \---debug
+|   |   |   |           +---multi-v2
+|   |   |   |           |       debug.json
+|   |   |   |           |       values-af.json
+|   |   |   |           |       values-am.json
+|   |   |   |           |       values-ar.json
+|   |   |   |           |       values-as.json
+|   |   |   |           |       values-az.json
+|   |   |   |           |       values-b+sr+Latn.json
+|   |   |   |           |       values-be.json
+|   |   |   |           |       values-bg.json
+|   |   |   |           |       values-bn.json
+|   |   |   |           |       values-bs.json
+|   |   |   |           |       values-ca.json
+|   |   |   |           |       values-cs.json
+|   |   |   |           |       values-da.json
+|   |   |   |           |       values-de.json
+|   |   |   |           |       values-el.json
+|   |   |   |           |       values-en-rAU.json
+|   |   |   |           |       values-en-rCA.json
+|   |   |   |           |       values-en-rGB.json
+|   |   |   |           |       values-en-rIN.json
+|   |   |   |           |       values-en-rXC.json
+|   |   |   |           |       values-es-rUS.json
+|   |   |   |           |       values-es.json
+|   |   |   |           |       values-et.json
+|   |   |   |           |       values-eu.json
+|   |   |   |           |       values-fa.json
+|   |   |   |           |       values-fi.json
+|   |   |   |           |       values-fr-rCA.json
+|   |   |   |           |       values-fr.json
+|   |   |   |           |       values-gl.json
+|   |   |   |           |       values-gu.json
+|   |   |   |           |       values-hi.json
+|   |   |   |           |       values-hr.json
+|   |   |   |           |       values-hu.json
+|   |   |   |           |       values-hy.json
+|   |   |   |           |       values-in.json
+|   |   |   |           |       values-is.json
+|   |   |   |           |       values-it.json
+|   |   |   |           |       values-iw.json
+|   |   |   |           |       values-ja.json
+|   |   |   |           |       values-ka.json
+|   |   |   |           |       values-kk.json
+|   |   |   |           |       values-km.json
+|   |   |   |           |       values-kn.json
+|   |   |   |           |       values-ko.json
+|   |   |   |           |       values-ky.json
+|   |   |   |           |       values-lo.json
+|   |   |   |           |       values-lt.json
+|   |   |   |           |       values-lv.json
+|   |   |   |           |       values-mk.json
+|   |   |   |           |       values-ml.json
+|   |   |   |           |       values-mn.json
+|   |   |   |           |       values-mr.json
+|   |   |   |           |       values-ms.json
+|   |   |   |           |       values-my.json
+|   |   |   |           |       values-nb.json
+|   |   |   |           |       values-ne.json
+|   |   |   |           |       values-nl.json
+|   |   |   |           |       values-or.json
+|   |   |   |           |       values-pa.json
+|   |   |   |           |       values-pl.json
+|   |   |   |           |       values-pt-rBR.json
+|   |   |   |           |       values-pt-rPT.json
+|   |   |   |           |       values-pt.json
+|   |   |   |           |       values-ro.json
+|   |   |   |           |       values-ru.json
+|   |   |   |           |       values-si.json
+|   |   |   |           |       values-sk.json
+|   |   |   |           |       values-sl.json
+|   |   |   |           |       values-sq.json
+|   |   |   |           |       values-sr.json
+|   |   |   |           |       values-sv.json
+|   |   |   |           |       values-sw.json
+|   |   |   |           |       values-ta.json
+|   |   |   |           |       values-te.json
+|   |   |   |           |       values-th.json
+|   |   |   |           |       values-tl.json
+|   |   |   |           |       values-tr.json
+|   |   |   |           |       values-uk.json
+|   |   |   |           |       values-ur.json
+|   |   |   |           |       values-uz.json
+|   |   |   |           |       values-v16.json
+|   |   |   |           |       values-v21.json
+|   |   |   |           |       values-vi.json
+|   |   |   |           |       values-zh-rCN.json
+|   |   |   |           |       values-zh-rHK.json
+|   |   |   |           |       values-zh-rTW.json
+|   |   |   |           |       values-zu.json
+|   |   |   |           |       values.json
+|   |   |   |           |       
+|   |   |   |           \---single
+|   |   |   |                   debug.json
+|   |   |   |                   
+|   |   |   +---bundle_manifest
+|   |   |   |   \---debug
+|   |   |   |       \---processDebugManifest
+|   |   |   |           \---bundle-manifest
+|   |   |   |                   AndroidManifest.xml
+|   |   |   |                   output.json
+|   |   |   |                   
+|   |   |   +---check_manifest_result
+|   |   |   |   \---debug
+|   |   |   |       \---checkDebugManifest
+|   |   |   |           \---out
+|   |   |   +---compatible_screen_manifest
+|   |   |   |   \---debug
+|   |   |   |       \---createDebugCompatibleScreenManifests
+|   |   |   |           \---out
+|   |   |   |                   output.json
+|   |   |   |                   
+|   |   |   +---dex
+|   |   |   |   \---debug
+|   |   |   |       \---mergeDexDebug
+|   |   |   |           \---out
+|   |   |   |                   classes.dex
+|   |   |   |                   
+|   |   |   +---duplicate_classes_check
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   +---external_file_lib_dex_archives
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   +---external_libs_dex
+|   |   |   |   \---debug
+|   |   |   |       \---mergeExtDexDebug
+|   |   |   |           \---out
+|   |   |   |                   classes.dex
+|   |   |   |                   
+|   |   |   +---flutter
+|   |   |   |   \---debug
+|   |   |   |       |   .last_build_id
+|   |   |   |       |   flutter_build.d
+|   |   |   |       |   libs.jar
+|   |   |   |       |   
+|   |   |   |       \---flutter_assets
+|   |   |   |           |   AssetManifest.json
+|   |   |   |           |   FontManifest.json
+|   |   |   |           |   isolate_snapshot_data
+|   |   |   |           |   kernel_blob.bin
+|   |   |   |           |   NOTICES
+|   |   |   |           |   vm_snapshot_data
+|   |   |   |           |   
+|   |   |   |           +---assets
+|   |   |   |           |   \---images
+|   |   |   |           |           ic_splash_1.png
+|   |   |   |           |           
+|   |   |   |           +---fonts
+|   |   |   |           |       MaterialIcons-Regular.otf
+|   |   |   |           |       
+|   |   |   |           \---packages
+|   |   |   |               \---cupertino_icons
+|   |   |   |                   \---assets
+|   |   |   |                           CupertinoIcons.ttf
+|   |   |   |                           
+|   |   |   +---incremental
+|   |   |   |   +---debug-mergeJavaRes
+|   |   |   |   |   |   merge-state
+|   |   |   |   |   |   
+|   |   |   |   |   \---zip-cache
+|   |   |   |   |           1Dn3mnUuf+ZUynGDmVan+zP3hvo=
+|   |   |   |   |           2wsQUfxtBj34TVlRFKRoq5LqSwI=
+|   |   |   |   |           3Aw1fu6AUO7Uirp_kL8LzH5GHQA=
+|   |   |   |   |           3QuNMDAlDPI3f4Rr4Zl7gdhaSyo=
+|   |   |   |   |           a_K8PQ8_nLfYbnk6dxMgsbuHPoE=
+|   |   |   |   |           bsKGOLsBoM+xBEpgBkS7Vk5ApCo=
+|   |   |   |   |           DFXXsSWE5KmoItxpB38WlluVNW4=
+|   |   |   |   |           duppW4TS6O35cdeAiGTYA+stnFY=
+|   |   |   |   |           ewNJVOr3oCsMuJKYUiVreiuULWc=
+|   |   |   |   |           HPPFZVLBbf1mdtr7EnUckd9WfHQ=
+|   |   |   |   |           IEQfwWSH_Oc70ROoENpJ3zGfu20=
+|   |   |   |   |           iOmAA6Ksi2yL5c+xKEMdFQkOIHk=
+|   |   |   |   |           kpUV5xUel+kisV6fbWjjzZzEV94=
+|   |   |   |   |           mjz_DIialBV3RpeBb9nRUioQRmg=
+|   |   |   |   |           MVHqf8ckydEfMU9I_hbrKn9whMc=
+|   |   |   |   |           nrCEhWpAecLpWg5AdLUuIIaOsAU=
+|   |   |   |   |           nxTZQZ60oAG5Z1ZsbfOfzP+8XA4=
+|   |   |   |   |           ovRjKYiZGUsVMIVk5smbOjGmbSk=
+|   |   |   |   |           pQWB_xLe7qo0rFg3+obHYidi9BY=
+|   |   |   |   |           QHSILwLQ4XaplT2FcdGZPb56jbM=
+|   |   |   |   |           rNyWkT3OX4iGnmWL6mSRUuTCQ18=
+|   |   |   |   |           RxDI+6cbOkAAy9Hf_Ieq+SwvQYg=
+|   |   |   |   |           S85o3aq2PYyQLX3LOyS92IJeW38=
+|   |   |   |   |           UGRGfMHdRhiUv1JonCdSgfKXeuU=
+|   |   |   |   |           VJtOXmr91RjJs68bwFQDjpHCXkM=
+|   |   |   |   |           XkJA9r7gQIl_FXOTeeeyIMejL4U=
+|   |   |   |   |           yHByjnPxRT7TNBZbUuJIdULvIMo=
+|   |   |   |   |           
+|   |   |   |   +---debug-mergeNativeLibs
+|   |   |   |   |   |   merge-state
+|   |   |   |   |   |   
+|   |   |   |   |   \---zip-cache
+|   |   |   |   |           1Dn3mnUuf+ZUynGDmVan+zP3hvo=
+|   |   |   |   |           2wsQUfxtBj34TVlRFKRoq5LqSwI=
+|   |   |   |   |           3Aw1fu6AUO7Uirp_kL8LzH5GHQA=
+|   |   |   |   |           3QuNMDAlDPI3f4Rr4Zl7gdhaSyo=
+|   |   |   |   |           a_K8PQ8_nLfYbnk6dxMgsbuHPoE=
+|   |   |   |   |           bsKGOLsBoM+xBEpgBkS7Vk5ApCo=
+|   |   |   |   |           DFXXsSWE5KmoItxpB38WlluVNW4=
+|   |   |   |   |           duppW4TS6O35cdeAiGTYA+stnFY=
+|   |   |   |   |           ewNJVOr3oCsMuJKYUiVreiuULWc=
+|   |   |   |   |           HPPFZVLBbf1mdtr7EnUckd9WfHQ=
+|   |   |   |   |           IEQfwWSH_Oc70ROoENpJ3zGfu20=
+|   |   |   |   |           iOmAA6Ksi2yL5c+xKEMdFQkOIHk=
+|   |   |   |   |           kpUV5xUel+kisV6fbWjjzZzEV94=
+|   |   |   |   |           mjz_DIialBV3RpeBb9nRUioQRmg=
+|   |   |   |   |           MVHqf8ckydEfMU9I_hbrKn9whMc=
+|   |   |   |   |           nrCEhWpAecLpWg5AdLUuIIaOsAU=
+|   |   |   |   |           nxTZQZ60oAG5Z1ZsbfOfzP+8XA4=
+|   |   |   |   |           ovRjKYiZGUsVMIVk5smbOjGmbSk=
+|   |   |   |   |           pQWB_xLe7qo0rFg3+obHYidi9BY=
+|   |   |   |   |           QHSILwLQ4XaplT2FcdGZPb56jbM=
+|   |   |   |   |           rNyWkT3OX4iGnmWL6mSRUuTCQ18=
+|   |   |   |   |           RxDI+6cbOkAAy9Hf_Ieq+SwvQYg=
+|   |   |   |   |           S85o3aq2PYyQLX3LOyS92IJeW38=
+|   |   |   |   |           UGRGfMHdRhiUv1JonCdSgfKXeuU=
+|   |   |   |   |           VJtOXmr91RjJs68bwFQDjpHCXkM=
+|   |   |   |   |           XkJA9r7gQIl_FXOTeeeyIMejL4U=
+|   |   |   |   |           yHByjnPxRT7TNBZbUuJIdULvIMo=
+|   |   |   |   |           
+|   |   |   |   +---mergeDebugAssets
+|   |   |   |   |       merger.xml
+|   |   |   |   |       
+|   |   |   |   +---mergeDebugJniLibFolders
+|   |   |   |   |       merger.xml
+|   |   |   |   |       
+|   |   |   |   +---mergeDebugResources
+|   |   |   |   |   |   compile-file-map.properties
+|   |   |   |   |   |   merger.xml
+|   |   |   |   |   |   
+|   |   |   |   |   +---merged.dir
+|   |   |   |   |   |   +---values
+|   |   |   |   |   |   |       values.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-af
+|   |   |   |   |   |   |       values-af.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-am
+|   |   |   |   |   |   |       values-am.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ar
+|   |   |   |   |   |   |       values-ar.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-as
+|   |   |   |   |   |   |       values-as.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-az
+|   |   |   |   |   |   |       values-az.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-b+sr+Latn
+|   |   |   |   |   |   |       values-b+sr+Latn.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-be
+|   |   |   |   |   |   |       values-be.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-bg
+|   |   |   |   |   |   |       values-bg.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-bn
+|   |   |   |   |   |   |       values-bn.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-bs
+|   |   |   |   |   |   |       values-bs.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ca
+|   |   |   |   |   |   |       values-ca.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-cs
+|   |   |   |   |   |   |       values-cs.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-da
+|   |   |   |   |   |   |       values-da.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-de
+|   |   |   |   |   |   |       values-de.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-el
+|   |   |   |   |   |   |       values-el.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-en-rAU
+|   |   |   |   |   |   |       values-en-rAU.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-en-rCA
+|   |   |   |   |   |   |       values-en-rCA.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-en-rGB
+|   |   |   |   |   |   |       values-en-rGB.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-en-rIN
+|   |   |   |   |   |   |       values-en-rIN.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-en-rXC
+|   |   |   |   |   |   |       values-en-rXC.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-es
+|   |   |   |   |   |   |       values-es.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-es-rUS
+|   |   |   |   |   |   |       values-es-rUS.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-et
+|   |   |   |   |   |   |       values-et.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-eu
+|   |   |   |   |   |   |       values-eu.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-fa
+|   |   |   |   |   |   |       values-fa.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-fi
+|   |   |   |   |   |   |       values-fi.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-fr
+|   |   |   |   |   |   |       values-fr.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-fr-rCA
+|   |   |   |   |   |   |       values-fr-rCA.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-gl
+|   |   |   |   |   |   |       values-gl.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-gu
+|   |   |   |   |   |   |       values-gu.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-hi
+|   |   |   |   |   |   |       values-hi.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-hr
+|   |   |   |   |   |   |       values-hr.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-hu
+|   |   |   |   |   |   |       values-hu.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-hy
+|   |   |   |   |   |   |       values-hy.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-in
+|   |   |   |   |   |   |       values-in.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-is
+|   |   |   |   |   |   |       values-is.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-it
+|   |   |   |   |   |   |       values-it.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-iw
+|   |   |   |   |   |   |       values-iw.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ja
+|   |   |   |   |   |   |       values-ja.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ka
+|   |   |   |   |   |   |       values-ka.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-kk
+|   |   |   |   |   |   |       values-kk.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-km
+|   |   |   |   |   |   |       values-km.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-kn
+|   |   |   |   |   |   |       values-kn.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ko
+|   |   |   |   |   |   |       values-ko.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ky
+|   |   |   |   |   |   |       values-ky.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-lo
+|   |   |   |   |   |   |       values-lo.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-lt
+|   |   |   |   |   |   |       values-lt.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-lv
+|   |   |   |   |   |   |       values-lv.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-mk
+|   |   |   |   |   |   |       values-mk.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ml
+|   |   |   |   |   |   |       values-ml.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-mn
+|   |   |   |   |   |   |       values-mn.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-mr
+|   |   |   |   |   |   |       values-mr.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ms
+|   |   |   |   |   |   |       values-ms.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-my
+|   |   |   |   |   |   |       values-my.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-nb
+|   |   |   |   |   |   |       values-nb.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ne
+|   |   |   |   |   |   |       values-ne.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-nl
+|   |   |   |   |   |   |       values-nl.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-or
+|   |   |   |   |   |   |       values-or.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-pa
+|   |   |   |   |   |   |       values-pa.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-pl
+|   |   |   |   |   |   |       values-pl.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-pt
+|   |   |   |   |   |   |       values-pt.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-pt-rBR
+|   |   |   |   |   |   |       values-pt-rBR.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-pt-rPT
+|   |   |   |   |   |   |       values-pt-rPT.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ro
+|   |   |   |   |   |   |       values-ro.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ru
+|   |   |   |   |   |   |       values-ru.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-si
+|   |   |   |   |   |   |       values-si.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-sk
+|   |   |   |   |   |   |       values-sk.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-sl
+|   |   |   |   |   |   |       values-sl.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-sq
+|   |   |   |   |   |   |       values-sq.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-sr
+|   |   |   |   |   |   |       values-sr.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-sv
+|   |   |   |   |   |   |       values-sv.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-sw
+|   |   |   |   |   |   |       values-sw.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ta
+|   |   |   |   |   |   |       values-ta.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-te
+|   |   |   |   |   |   |       values-te.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-th
+|   |   |   |   |   |   |       values-th.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-tl
+|   |   |   |   |   |   |       values-tl.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-tr
+|   |   |   |   |   |   |       values-tr.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-uk
+|   |   |   |   |   |   |       values-uk.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-ur
+|   |   |   |   |   |   |       values-ur.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-uz
+|   |   |   |   |   |   |       values-uz.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-v16
+|   |   |   |   |   |   |       values-v16.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-v21
+|   |   |   |   |   |   |       values-v21.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-vi
+|   |   |   |   |   |   |       values-vi.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-zh-rCN
+|   |   |   |   |   |   |       values-zh-rCN.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-zh-rHK
+|   |   |   |   |   |   |       values-zh-rHK.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   +---values-zh-rTW
+|   |   |   |   |   |   |       values-zh-rTW.xml
+|   |   |   |   |   |   |       
+|   |   |   |   |   |   \---values-zu
+|   |   |   |   |   |           values-zu.xml
+|   |   |   |   |   |           
+|   |   |   |   |   \---stripped.dir
+|   |   |   |   +---mergeDebugShaders
+|   |   |   |   |       merger.xml
+|   |   |   |   |       
+|   |   |   |   +---packageDebug
+|   |   |   |   |   \---tmp
+|   |   |   |   |       \---debug
+|   |   |   |   |           |   dex-renamer-state.txt
+|   |   |   |   |           |   
+|   |   |   |   |           \---zip-cache
+|   |   |   |   |                   f53cpb_LGPOWYRN2bLdkUhCcSSo=
+|   |   |   |   |                   iAMS9uG+EErEYTD_mWhVqVCZxm4=
+|   |   |   |   |                   
+|   |   |   |   \---processDebugResources
+|   |   |   +---instant_app_manifest
+|   |   |   |   \---debug
+|   |   |   |           AndroidManifest.xml
+|   |   |   |           output.json
+|   |   |   |           
+|   |   |   +---javac
+|   |   |   |   \---debug
+|   |   |   |       \---classes
+|   |   |   |           +---androidx
+|   |   |   |           |   +---activity
+|   |   |   |           |   |       R$attr.class
+|   |   |   |           |   |       R$color.class
+|   |   |   |           |   |       R$dimen.class
+|   |   |   |           |   |       R$drawable.class
+|   |   |   |           |   |       R$id.class
+|   |   |   |           |   |       R$integer.class
+|   |   |   |           |   |       R$layout.class
+|   |   |   |           |   |       R$string.class
+|   |   |   |           |   |       R$style.class
+|   |   |   |           |   |       R$styleable.class
+|   |   |   |           |   |       R.class
+|   |   |   |           |   |       
+|   |   |   |           |   +---arch
+|   |   |   |           |   |   \---core
+|   |   |   |           |   |           R.class
+|   |   |   |           |   |           
+|   |   |   |           |   +---core
+|   |   |   |           |   |       R$attr.class
+|   |   |   |           |   |       R$color.class
+|   |   |   |           |   |       R$dimen.class
+|   |   |   |           |   |       R$drawable.class
+|   |   |   |           |   |       R$id.class
+|   |   |   |           |   |       R$integer.class
+|   |   |   |           |   |       R$layout.class
+|   |   |   |           |   |       R$string.class
+|   |   |   |           |   |       R$style.class
+|   |   |   |           |   |       R$styleable.class
+|   |   |   |           |   |       R.class
+|   |   |   |           |   |       
+|   |   |   |           |   +---customview
+|   |   |   |           |   |       R$attr.class
+|   |   |   |           |   |       R$color.class
+|   |   |   |           |   |       R$dimen.class
+|   |   |   |           |   |       R$drawable.class
+|   |   |   |           |   |       R$id.class
+|   |   |   |           |   |       R$integer.class
+|   |   |   |           |   |       R$layout.class
+|   |   |   |           |   |       R$string.class
+|   |   |   |           |   |       R$style.class
+|   |   |   |           |   |       R$styleable.class
+|   |   |   |           |   |       R.class
+|   |   |   |           |   |       
+|   |   |   |           |   +---fragment
+|   |   |   |           |   |       R$attr.class
+|   |   |   |           |   |       R$color.class
+|   |   |   |           |   |       R$dimen.class
+|   |   |   |           |   |       R$drawable.class
+|   |   |   |           |   |       R$id.class
+|   |   |   |           |   |       R$integer.class
+|   |   |   |           |   |       R$layout.class
+|   |   |   |           |   |       R$string.class
+|   |   |   |           |   |       R$style.class
+|   |   |   |           |   |       R$styleable.class
+|   |   |   |           |   |       R.class
+|   |   |   |           |   |       
+|   |   |   |           |   +---lifecycle
+|   |   |   |           |   |   |   R.class
+|   |   |   |           |   |   |   
+|   |   |   |           |   |   +---livedata
+|   |   |   |           |   |   |   |   R.class
+|   |   |   |           |   |   |   |   
+|   |   |   |           |   |   |   \---core
+|   |   |   |           |   |   |           R.class
+|   |   |   |           |   |   |           
+|   |   |   |           |   |   \---viewmodel
+|   |   |   |           |   |           R.class
+|   |   |   |           |   |           
+|   |   |   |           |   +---loader
+|   |   |   |           |   |       R$attr.class
+|   |   |   |           |   |       R$color.class
+|   |   |   |           |   |       R$dimen.class
+|   |   |   |           |   |       R$drawable.class
+|   |   |   |           |   |       R$id.class
+|   |   |   |           |   |       R$integer.class
+|   |   |   |           |   |       R$layout.class
+|   |   |   |           |   |       R$string.class
+|   |   |   |           |   |       R$style.class
+|   |   |   |           |   |       R$styleable.class
+|   |   |   |           |   |       R.class
+|   |   |   |           |   |       
+|   |   |   |           |   +---savedstate
+|   |   |   |           |   |       R.class
+|   |   |   |           |   |       
+|   |   |   |           |   +---versionedparcelable
+|   |   |   |           |   |       R.class
+|   |   |   |           |   |       
+|   |   |   |           |   \---viewpager
+|   |   |   |           |           R$attr.class
+|   |   |   |           |           R$color.class
+|   |   |   |           |           R$dimen.class
+|   |   |   |           |           R$drawable.class
+|   |   |   |           |           R$id.class
+|   |   |   |           |           R$integer.class
+|   |   |   |           |           R$layout.class
+|   |   |   |           |           R$string.class
+|   |   |   |           |           R$style.class
+|   |   |   |           |           R$styleable.class
+|   |   |   |           |           R.class
+|   |   |   |           |           
+|   |   |   |           +---com
+|   |   |   |           |   \---example
+|   |   |   |           |       \---basicmvvm
+|   |   |   |           |               BuildConfig.class
+|   |   |   |           |               R$attr.class
+|   |   |   |           |               R$color.class
+|   |   |   |           |               R$dimen.class
+|   |   |   |           |               R$drawable.class
+|   |   |   |           |               R$id.class
+|   |   |   |           |               R$integer.class
+|   |   |   |           |               R$layout.class
+|   |   |   |           |               R$mipmap.class
+|   |   |   |           |               R$string.class
+|   |   |   |           |               R$style.class
+|   |   |   |           |               R$styleable.class
+|   |   |   |           |               R.class
+|   |   |   |           |               
+|   |   |   |           \---io
+|   |   |   |               \---flutter
+|   |   |   |                   \---plugins
+|   |   |   |                           GeneratedPluginRegistrant.class
+|   |   |   |                           
+|   |   |   +---manifest_merge_blame_file
+|   |   |   |   \---debug
+|   |   |   |           manifest-merger-blame-debug-report.txt
+|   |   |   |           
+|   |   |   +---merged_assets
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   |           \---flutter_assets
+|   |   |   |               |   AssetManifest.json
+|   |   |   |               |   FontManifest.json
+|   |   |   |               |   isolate_snapshot_data
+|   |   |   |               |   kernel_blob.bin
+|   |   |   |               |   NOTICES
+|   |   |   |               |   vm_snapshot_data
+|   |   |   |               |   
+|   |   |   |               +---assets
+|   |   |   |               |   \---images
+|   |   |   |               |           ic_splash_1.png
+|   |   |   |               |           
+|   |   |   |               +---fonts
+|   |   |   |               |       MaterialIcons-Regular.otf
+|   |   |   |               |       
+|   |   |   |               \---packages
+|   |   |   |                   \---cupertino_icons
+|   |   |   |                       \---assets
+|   |   |   |                               CupertinoIcons.ttf
+|   |   |   |                               
+|   |   |   +---merged_java_res
+|   |   |   |   \---debug
+|   |   |   |           out.jar
+|   |   |   |           
+|   |   |   +---merged_jni_libs
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   +---merged_manifests
+|   |   |   |   \---debug
+|   |   |   |           AndroidManifest.xml
+|   |   |   |           output.json
+|   |   |   |           
+|   |   |   +---merged_native_libs
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   |           \---lib
+|   |   |   |               +---arm64-v8a
+|   |   |   |               |       libflutter.so
+|   |   |   |               |       
+|   |   |   |               +---x86
+|   |   |   |               |       libflutter.so
+|   |   |   |               |       
+|   |   |   |               \---x86_64
+|   |   |   |                       libflutter.so
+|   |   |   |                       
+|   |   |   +---merged_shaders
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   +---metadata_feature_manifest
+|   |   |   |   \---debug
+|   |   |   |       \---processDebugManifest
+|   |   |   |           \---metadata-feature
+|   |   |   |                   output.json
+|   |   |   |                   
+|   |   |   +---processed_res
+|   |   |   |   \---debug
+|   |   |   |       \---processDebugResources
+|   |   |   |           \---out
+|   |   |   |                   output.json
+|   |   |   |                   resources-debug.ap_
+|   |   |   |                   
+|   |   |   +---res
+|   |   |   |   +---merged
+|   |   |   |   |   \---debug
+|   |   |   |   |           drawable-hdpi-v4_notification_bg_low_normal.9.png.flat
+|   |   |   |   |           drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat
+|   |   |   |   |           drawable-hdpi-v4_notification_bg_normal.9.png.flat
+|   |   |   |   |           drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat
+|   |   |   |   |           drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat
+|   |   |   |   |           drawable-mdpi-v4_notification_bg_low_normal.9.png.flat
+|   |   |   |   |           drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat
+|   |   |   |   |           drawable-mdpi-v4_notification_bg_normal.9.png.flat
+|   |   |   |   |           drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat
+|   |   |   |   |           drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat
+|   |   |   |   |           drawable-v21_notification_action_background.xml.flat
+|   |   |   |   |           drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat
+|   |   |   |   |           drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat
+|   |   |   |   |           drawable-xhdpi-v4_notification_bg_normal.9.png.flat
+|   |   |   |   |           drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat
+|   |   |   |   |           drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat
+|   |   |   |   |           drawable_launch_background.xml.flat
+|   |   |   |   |           drawable_notification_bg.xml.flat
+|   |   |   |   |           drawable_notification_bg_low.xml.flat
+|   |   |   |   |           drawable_notification_icon_background.xml.flat
+|   |   |   |   |           drawable_notification_tile_bg.xml.flat
+|   |   |   |   |           layout-v16_notification_template_custom_big.xml.flat
+|   |   |   |   |           layout-v21_notification_action.xml.flat
+|   |   |   |   |           layout-v21_notification_action_tombstone.xml.flat
+|   |   |   |   |           layout-v21_notification_template_custom_big.xml.flat
+|   |   |   |   |           layout-v21_notification_template_icon_group.xml.flat
+|   |   |   |   |           layout_custom_dialog.xml.flat
+|   |   |   |   |           layout_notification_action.xml.flat
+|   |   |   |   |           layout_notification_action_tombstone.xml.flat
+|   |   |   |   |           layout_notification_template_icon_group.xml.flat
+|   |   |   |   |           layout_notification_template_part_chronometer.xml.flat
+|   |   |   |   |           layout_notification_template_part_time.xml.flat
+|   |   |   |   |           mipmap-hdpi_ic_launcher.png.flat
+|   |   |   |   |           mipmap-mdpi_ic_launcher.png.flat
+|   |   |   |   |           mipmap-xhdpi_ic_launcher.png.flat
+|   |   |   |   |           mipmap-xxhdpi_ic_launcher.png.flat
+|   |   |   |   |           mipmap-xxxhdpi_ic_launcher.png.flat
+|   |   |   |   |           values-af_values-af.arsc.flat
+|   |   |   |   |           values-am_values-am.arsc.flat
+|   |   |   |   |           values-ar_values-ar.arsc.flat
+|   |   |   |   |           values-as_values-as.arsc.flat
+|   |   |   |   |           values-az_values-az.arsc.flat
+|   |   |   |   |           values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+|   |   |   |   |           values-be_values-be.arsc.flat
+|   |   |   |   |           values-bg_values-bg.arsc.flat
+|   |   |   |   |           values-bn_values-bn.arsc.flat
+|   |   |   |   |           values-bs_values-bs.arsc.flat
+|   |   |   |   |           values-ca_values-ca.arsc.flat
+|   |   |   |   |           values-cs_values-cs.arsc.flat
+|   |   |   |   |           values-da_values-da.arsc.flat
+|   |   |   |   |           values-de_values-de.arsc.flat
+|   |   |   |   |           values-el_values-el.arsc.flat
+|   |   |   |   |           values-en-rAU_values-en-rAU.arsc.flat
+|   |   |   |   |           values-en-rCA_values-en-rCA.arsc.flat
+|   |   |   |   |           values-en-rGB_values-en-rGB.arsc.flat
+|   |   |   |   |           values-en-rIN_values-en-rIN.arsc.flat
+|   |   |   |   |           values-en-rXC_values-en-rXC.arsc.flat
+|   |   |   |   |           values-es-rUS_values-es-rUS.arsc.flat
+|   |   |   |   |           values-es_values-es.arsc.flat
+|   |   |   |   |           values-et_values-et.arsc.flat
+|   |   |   |   |           values-eu_values-eu.arsc.flat
+|   |   |   |   |           values-fa_values-fa.arsc.flat
+|   |   |   |   |           values-fi_values-fi.arsc.flat
+|   |   |   |   |           values-fr-rCA_values-fr-rCA.arsc.flat
+|   |   |   |   |           values-fr_values-fr.arsc.flat
+|   |   |   |   |           values-gl_values-gl.arsc.flat
+|   |   |   |   |           values-gu_values-gu.arsc.flat
+|   |   |   |   |           values-hi_values-hi.arsc.flat
+|   |   |   |   |           values-hr_values-hr.arsc.flat
+|   |   |   |   |           values-hu_values-hu.arsc.flat
+|   |   |   |   |           values-hy_values-hy.arsc.flat
+|   |   |   |   |           values-in_values-in.arsc.flat
+|   |   |   |   |           values-is_values-is.arsc.flat
+|   |   |   |   |           values-it_values-it.arsc.flat
+|   |   |   |   |           values-iw_values-iw.arsc.flat
+|   |   |   |   |           values-ja_values-ja.arsc.flat
+|   |   |   |   |           values-ka_values-ka.arsc.flat
+|   |   |   |   |           values-kk_values-kk.arsc.flat
+|   |   |   |   |           values-km_values-km.arsc.flat
+|   |   |   |   |           values-kn_values-kn.arsc.flat
+|   |   |   |   |           values-ko_values-ko.arsc.flat
+|   |   |   |   |           values-ky_values-ky.arsc.flat
+|   |   |   |   |           values-lo_values-lo.arsc.flat
+|   |   |   |   |           values-lt_values-lt.arsc.flat
+|   |   |   |   |           values-lv_values-lv.arsc.flat
+|   |   |   |   |           values-mk_values-mk.arsc.flat
+|   |   |   |   |           values-ml_values-ml.arsc.flat
+|   |   |   |   |           values-mn_values-mn.arsc.flat
+|   |   |   |   |           values-mr_values-mr.arsc.flat
+|   |   |   |   |           values-ms_values-ms.arsc.flat
+|   |   |   |   |           values-my_values-my.arsc.flat
+|   |   |   |   |           values-nb_values-nb.arsc.flat
+|   |   |   |   |           values-ne_values-ne.arsc.flat
+|   |   |   |   |           values-nl_values-nl.arsc.flat
+|   |   |   |   |           values-or_values-or.arsc.flat
+|   |   |   |   |           values-pa_values-pa.arsc.flat
+|   |   |   |   |           values-pl_values-pl.arsc.flat
+|   |   |   |   |           values-pt-rBR_values-pt-rBR.arsc.flat
+|   |   |   |   |           values-pt-rPT_values-pt-rPT.arsc.flat
+|   |   |   |   |           values-pt_values-pt.arsc.flat
+|   |   |   |   |           values-ro_values-ro.arsc.flat
+|   |   |   |   |           values-ru_values-ru.arsc.flat
+|   |   |   |   |           values-si_values-si.arsc.flat
+|   |   |   |   |           values-sk_values-sk.arsc.flat
+|   |   |   |   |           values-sl_values-sl.arsc.flat
+|   |   |   |   |           values-sq_values-sq.arsc.flat
+|   |   |   |   |           values-sr_values-sr.arsc.flat
+|   |   |   |   |           values-sv_values-sv.arsc.flat
+|   |   |   |   |           values-sw_values-sw.arsc.flat
+|   |   |   |   |           values-ta_values-ta.arsc.flat
+|   |   |   |   |           values-te_values-te.arsc.flat
+|   |   |   |   |           values-th_values-th.arsc.flat
+|   |   |   |   |           values-tl_values-tl.arsc.flat
+|   |   |   |   |           values-tr_values-tr.arsc.flat
+|   |   |   |   |           values-uk_values-uk.arsc.flat
+|   |   |   |   |           values-ur_values-ur.arsc.flat
+|   |   |   |   |           values-uz_values-uz.arsc.flat
+|   |   |   |   |           values-v16_values-v16.arsc.flat
+|   |   |   |   |           values-v21_values-v21.arsc.flat
+|   |   |   |   |           values-vi_values-vi.arsc.flat
+|   |   |   |   |           values-zh-rCN_values-zh-rCN.arsc.flat
+|   |   |   |   |           values-zh-rHK_values-zh-rHK.arsc.flat
+|   |   |   |   |           values-zh-rTW_values-zh-rTW.arsc.flat
+|   |   |   |   |           values-zu_values-zu.arsc.flat
+|   |   |   |   |           values_values.arsc.flat
+|   |   |   |   |           
+|   |   |   |   \---symbol-table-with-package
+|   |   |   |       \---debug
+|   |   |   |               package-aware-r.txt
+|   |   |   |               
+|   |   |   +---shader_assets
+|   |   |   |   \---debug
+|   |   |   |       \---compileDebugShaders
+|   |   |   |           \---out
+|   |   |   +---signing_config
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   |               signing-config.json
+|   |   |   |               
+|   |   |   +---stripped_native_libs
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   |           \---lib
+|   |   |   |               +---arm64-v8a
+|   |   |   |               |       libflutter.so
+|   |   |   |               |       
+|   |   |   |               +---x86
+|   |   |   |               |       libflutter.so
+|   |   |   |               |       
+|   |   |   |               \---x86_64
+|   |   |   |                       libflutter.so
+|   |   |   |                       
+|   |   |   +---symbols
+|   |   |   |   \---debug
+|   |   |   |           R.txt
+|   |   |   |           
+|   |   |   +---transforms
+|   |   |   |   \---dexBuilder
+|   |   |   |       \---debug
+|   |   |   |           |   __content__.json
+|   |   |   |           |   
+|   |   |   |           +---0
+|   |   |   |           |   +---androidx
+|   |   |   |           |   |   +---activity
+|   |   |   |           |   |   |       R$attr.dex
+|   |   |   |           |   |   |       R$color.dex
+|   |   |   |           |   |   |       R$dimen.dex
+|   |   |   |           |   |   |       R$drawable.dex
+|   |   |   |           |   |   |       R$id.dex
+|   |   |   |           |   |   |       R$integer.dex
+|   |   |   |           |   |   |       R$layout.dex
+|   |   |   |           |   |   |       R$string.dex
+|   |   |   |           |   |   |       R$style.dex
+|   |   |   |           |   |   |       R$styleable.dex
+|   |   |   |           |   |   |       R.dex
+|   |   |   |           |   |   |       
+|   |   |   |           |   |   +---arch
+|   |   |   |           |   |   |   \---core
+|   |   |   |           |   |   |           R.dex
+|   |   |   |           |   |   |           
+|   |   |   |           |   |   +---core
+|   |   |   |           |   |   |       R$attr.dex
+|   |   |   |           |   |   |       R$color.dex
+|   |   |   |           |   |   |       R$dimen.dex
+|   |   |   |           |   |   |       R$drawable.dex
+|   |   |   |           |   |   |       R$id.dex
+|   |   |   |           |   |   |       R$integer.dex
+|   |   |   |           |   |   |       R$layout.dex
+|   |   |   |           |   |   |       R$string.dex
+|   |   |   |           |   |   |       R$style.dex
+|   |   |   |           |   |   |       R$styleable.dex
+|   |   |   |           |   |   |       R.dex
+|   |   |   |           |   |   |       
+|   |   |   |           |   |   +---customview
+|   |   |   |           |   |   |       R$attr.dex
+|   |   |   |           |   |   |       R$color.dex
+|   |   |   |           |   |   |       R$dimen.dex
+|   |   |   |           |   |   |       R$drawable.dex
+|   |   |   |           |   |   |       R$id.dex
+|   |   |   |           |   |   |       R$integer.dex
+|   |   |   |           |   |   |       R$layout.dex
+|   |   |   |           |   |   |       R$string.dex
+|   |   |   |           |   |   |       R$style.dex
+|   |   |   |           |   |   |       R$styleable.dex
+|   |   |   |           |   |   |       R.dex
+|   |   |   |           |   |   |       
+|   |   |   |           |   |   +---fragment
+|   |   |   |           |   |   |       R$attr.dex
+|   |   |   |           |   |   |       R$color.dex
+|   |   |   |           |   |   |       R$dimen.dex
+|   |   |   |           |   |   |       R$drawable.dex
+|   |   |   |           |   |   |       R$id.dex
+|   |   |   |           |   |   |       R$integer.dex
+|   |   |   |           |   |   |       R$layout.dex
+|   |   |   |           |   |   |       R$string.dex
+|   |   |   |           |   |   |       R$style.dex
+|   |   |   |           |   |   |       R$styleable.dex
+|   |   |   |           |   |   |       R.dex
+|   |   |   |           |   |   |       
+|   |   |   |           |   |   +---lifecycle
+|   |   |   |           |   |   |   |   R.dex
+|   |   |   |           |   |   |   |   
+|   |   |   |           |   |   |   +---livedata
+|   |   |   |           |   |   |   |   |   R.dex
+|   |   |   |           |   |   |   |   |   
+|   |   |   |           |   |   |   |   \---core
+|   |   |   |           |   |   |   |           R.dex
+|   |   |   |           |   |   |   |           
+|   |   |   |           |   |   |   \---viewmodel
+|   |   |   |           |   |   |           R.dex
+|   |   |   |           |   |   |           
+|   |   |   |           |   |   +---loader
+|   |   |   |           |   |   |       R$attr.dex
+|   |   |   |           |   |   |       R$color.dex
+|   |   |   |           |   |   |       R$dimen.dex
+|   |   |   |           |   |   |       R$drawable.dex
+|   |   |   |           |   |   |       R$id.dex
+|   |   |   |           |   |   |       R$integer.dex
+|   |   |   |           |   |   |       R$layout.dex
+|   |   |   |           |   |   |       R$string.dex
+|   |   |   |           |   |   |       R$style.dex
+|   |   |   |           |   |   |       R$styleable.dex
+|   |   |   |           |   |   |       R.dex
+|   |   |   |           |   |   |       
+|   |   |   |           |   |   +---savedstate
+|   |   |   |           |   |   |       R.dex
+|   |   |   |           |   |   |       
+|   |   |   |           |   |   +---versionedparcelable
+|   |   |   |           |   |   |       R.dex
+|   |   |   |           |   |   |       
+|   |   |   |           |   |   \---viewpager
+|   |   |   |           |   |           R$attr.dex
+|   |   |   |           |   |           R$color.dex
+|   |   |   |           |   |           R$dimen.dex
+|   |   |   |           |   |           R$drawable.dex
+|   |   |   |           |   |           R$id.dex
+|   |   |   |           |   |           R$integer.dex
+|   |   |   |           |   |           R$layout.dex
+|   |   |   |           |   |           R$string.dex
+|   |   |   |           |   |           R$style.dex
+|   |   |   |           |   |           R$styleable.dex
+|   |   |   |           |   |           R.dex
+|   |   |   |           |   |           
+|   |   |   |           |   +---com
+|   |   |   |           |   |   \---example
+|   |   |   |           |   |       \---basicmvvm
+|   |   |   |           |   |               BuildConfig.dex
+|   |   |   |           |   |               R$attr.dex
+|   |   |   |           |   |               R$color.dex
+|   |   |   |           |   |               R$dimen.dex
+|   |   |   |           |   |               R$drawable.dex
+|   |   |   |           |   |               R$id.dex
+|   |   |   |           |   |               R$integer.dex
+|   |   |   |           |   |               R$layout.dex
+|   |   |   |           |   |               R$mipmap.dex
+|   |   |   |           |   |               R$string.dex
+|   |   |   |           |   |               R$style.dex
+|   |   |   |           |   |               R$styleable.dex
+|   |   |   |           |   |               R.dex
+|   |   |   |           |   |               
+|   |   |   |           |   \---io
+|   |   |   |           |       \---flutter
+|   |   |   |           |           \---plugins
+|   |   |   |           |                   GeneratedPluginRegistrant.dex
+|   |   |   |           |                   
+|   |   |   |           \---1
+|   |   |   |               \---com
+|   |   |   |                   \---example
+|   |   |   |                       \---basicmvvm
+|   |   |   |                               MainActivity.dex
+|   |   |   |                               
+|   |   |   \---validate_signing_config
+|   |   |       \---debug
+|   |   |           \---out
+|   |   +---kotlin
+|   |   |   \---compileDebugKotlin
+|   |   |       |   build-history.bin
+|   |   |       |   last-build.bin
+|   |   |       |   
+|   |   |       \---caches-jvm
+|   |   |           +---inputs
+|   |   |           |       source-to-output.tab
+|   |   |           |       source-to-output.tab.keystream
+|   |   |           |       source-to-output.tab.keystream.len
+|   |   |           |       source-to-output.tab.len
+|   |   |           |       source-to-output.tab.values.at
+|   |   |           |       source-to-output.tab_i
+|   |   |           |       source-to-output.tab_i.len
+|   |   |           |       
+|   |   |           +---jvm
+|   |   |           |   \---kotlin
+|   |   |           |           class-fq-name-to-source.tab
+|   |   |           |           class-fq-name-to-source.tab.keystream
+|   |   |           |           class-fq-name-to-source.tab.keystream.len
+|   |   |           |           class-fq-name-to-source.tab.len
+|   |   |           |           class-fq-name-to-source.tab.values.at
+|   |   |           |           class-fq-name-to-source.tab_i
+|   |   |           |           class-fq-name-to-source.tab_i.len
+|   |   |           |           internal-name-to-source.tab
+|   |   |           |           internal-name-to-source.tab.keystream
+|   |   |           |           internal-name-to-source.tab.keystream.len
+|   |   |           |           internal-name-to-source.tab.len
+|   |   |           |           internal-name-to-source.tab.values.at
+|   |   |           |           internal-name-to-source.tab_i
+|   |   |           |           internal-name-to-source.tab_i.len
+|   |   |           |           proto.tab
+|   |   |           |           proto.tab.keystream
+|   |   |           |           proto.tab.keystream.len
+|   |   |           |           proto.tab.len
+|   |   |           |           proto.tab.values.at
+|   |   |           |           proto.tab_i
+|   |   |           |           proto.tab_i.len
+|   |   |           |           source-to-classes.tab
+|   |   |           |           source-to-classes.tab.keystream
+|   |   |           |           source-to-classes.tab.keystream.len
+|   |   |           |           source-to-classes.tab.len
+|   |   |           |           source-to-classes.tab.values.at
+|   |   |           |           source-to-classes.tab_i
+|   |   |           |           source-to-classes.tab_i.len
+|   |   |           |           subtypes.tab
+|   |   |           |           subtypes.tab.keystream
+|   |   |           |           subtypes.tab.keystream.len
+|   |   |           |           subtypes.tab.len
+|   |   |           |           subtypes.tab.values.at
+|   |   |           |           subtypes.tab_i
+|   |   |           |           subtypes.tab_i.len
+|   |   |           |           supertypes.tab
+|   |   |           |           supertypes.tab.keystream
+|   |   |           |           supertypes.tab.keystream.len
+|   |   |           |           supertypes.tab.len
+|   |   |           |           supertypes.tab.values.at
+|   |   |           |           supertypes.tab_i
+|   |   |           |           supertypes.tab_i.len
+|   |   |           |           
+|   |   |           \---lookups
+|   |   |                   counters.tab
+|   |   |                   file-to-id.tab
+|   |   |                   file-to-id.tab.keystream
+|   |   |                   file-to-id.tab.keystream.len
+|   |   |                   file-to-id.tab.len
+|   |   |                   file-to-id.tab.values.at
+|   |   |                   file-to-id.tab_i
+|   |   |                   file-to-id.tab_i.len
+|   |   |                   id-to-file.tab
+|   |   |                   id-to-file.tab.keystream
+|   |   |                   id-to-file.tab.keystream.len
+|   |   |                   id-to-file.tab.len
+|   |   |                   id-to-file.tab.values.at
+|   |   |                   lookups.tab
+|   |   |                   lookups.tab.keystream
+|   |   |                   lookups.tab.keystream.len
+|   |   |                   lookups.tab.len
+|   |   |                   lookups.tab.values.at
+|   |   |                   lookups.tab_i
+|   |   |                   lookups.tab_i.len
+|   |   |                   
+|   |   +---outputs
+|   |   |   +---apk
+|   |   |   |   \---debug
+|   |   |   |           app-debug.apk
+|   |   |   |           output.json
+|   |   |   |           
+|   |   |   +---flutter-apk
+|   |   |   |       app-debug.apk
+|   |   |   |       app.apk
+|   |   |   |       app.apk.sha1
+|   |   |   |       
+|   |   |   \---logs
+|   |   |           manifest-merger-debug-report.txt
+|   |   |           
+|   |   \---tmp
+|   |       +---compileDebugJavaWithJavac
+|   |       +---kotlin-classes
+|   |       |   \---debug
+|   |       |       +---com
+|   |       |       |   \---example
+|   |       |       |       \---basicmvvm
+|   |       |       |               MainActivity.class
+|   |       |       |               
+|   |       |       \---META-INF
+|   |       |               app_debug.kotlin_module
+|   |       |               
+|   |       \---packLibsflutterBuildDebug
+|   |               MANIFEST.MF
+|   |               
+|   \---kotlin
+|       \---sessions
++---ios
+|   |   .gitignore
+|   |   
+|   +---Flutter
+|   |       AppFrameworkInfo.plist
+|   |       Debug.xcconfig
+|   |       flutter_export_environment.sh
+|   |       Generated.xcconfig
+|   |       Release.xcconfig
+|   |       
+|   +---Runner
+|   |   |   AppDelegate.swift
+|   |   |   GeneratedPluginRegistrant.h
+|   |   |   GeneratedPluginRegistrant.m
+|   |   |   Info.plist
+|   |   |   Runner-Bridging-Header.h
+|   |   |   
+|   |   +---Assets.xcassets
+|   |   |   +---AppIcon.appiconset
+|   |   |   |       Contents.json
+|   |   |   |       Icon-App-1024x1024@1x.png
+|   |   |   |       Icon-App-20x20@1x.png
+|   |   |   |       Icon-App-20x20@2x.png
+|   |   |   |       Icon-App-20x20@3x.png
+|   |   |   |       Icon-App-29x29@1x.png
+|   |   |   |       Icon-App-29x29@2x.png
+|   |   |   |       Icon-App-29x29@3x.png
+|   |   |   |       Icon-App-40x40@1x.png
+|   |   |   |       Icon-App-40x40@2x.png
+|   |   |   |       Icon-App-40x40@3x.png
+|   |   |   |       Icon-App-60x60@2x.png
+|   |   |   |       Icon-App-60x60@3x.png
+|   |   |   |       Icon-App-76x76@1x.png
+|   |   |   |       Icon-App-76x76@2x.png
+|   |   |   |       Icon-App-83.5x83.5@2x.png
+|   |   |   |       
+|   |   |   \---LaunchImage.imageset
+|   |   |           Contents.json
+|   |   |           LaunchImage.png
+|   |   |           LaunchImage@2x.png
+|   |   |           LaunchImage@3x.png
+|   |   |           README.md
+|   |   |           
+|   |   \---Base.lproj
+|   |           LaunchScreen.storyboard
+|   |           Main.storyboard
+|   |           
+|   +---Runner.xcodeproj
+|   |   |   project.pbxproj
+|   |   |   
+|   |   +---project.xcworkspace
+|   |   |   |   contents.xcworkspacedata
+|   |   |   |   
+|   |   |   \---xcshareddata
+|   |   |           IDEWorkspaceChecks.plist
+|   |   |           WorkspaceSettings.xcsettings
+|   |   |           
+|   |   \---xcshareddata
+|   |       \---xcschemes
+|   |               Runner.xcscheme
+|   |               
+|   \---Runner.xcworkspace
+|       |   contents.xcworkspacedata
+|       |   
+|       \---xcshareddata
+|               IDEWorkspaceChecks.plist
+|               WorkspaceSettings.xcsettings
+|               
++---lib
+|   |   main.dart
+|   |   
+|   +---app
+|   |       locator.dart
+|   |       locator.iconfig.dart
+|   |       routes.dart
+|   |       routes.gr.dart
+|   |       thid_party_app.dart
+|   |       
+|   +---models
+|   +---providers
+|   +---screen
+|   |   |   home.dart
+|   |   |   login.dart
+|   |   |   splashscreen.dart
+|   |   |   
+|   |   \---model
+|   |           home_vm.dart
+|   |           login_vm.dart
+|   |           splashscreen_vm.dart
+|   |           
+|   +---utils
+|   |       constant.dart
+|   |       
+|   \---widgets
+|           loading.dart
+|           
+\---test
+        widget_test.dart
+        
