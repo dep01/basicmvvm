@@ -20,27 +20,27 @@ dev_dependencies:<br/>
 
 ## structure folder
 
- android<br/>
+_android<br/>
 |<br/>
- assets<br/>
+_assets<br/>
 |<br/>
- build<br/>
+_build<br/>
 |<br/>
- ios<br/>
+_ios<br/>
 |<br/>
- lib<br/>
+_lib<br/>
 |_____app<br/>
-|     |___locator.dart<br/>
-|     |___routes.dart<br/>
-|     |___third_party_app.dart<br/>
+|_____|___locator.dart<br/>
+|_____|___routes.dart<br/>
+|_____|___third_party_app.dart<br/>
 |<br/>
-|_____model(this folder for data Model,you can generate from ## https://app.quicktype.io/)<br/>
+|_____model(this folder for data Model,you can generate from https://app.quicktype.io/)<br/>
 |<br/>
 |_____provider<br/>
 |<br/>
 |_____screen<br/>
-|     |___model(this folder for ViewModel)<br/>
-|     |     |___login_vm.dart<br/>
+|_____|___model(this folder for ViewModel)<br/>
+|_____|___|___login_vm.dart<br/>
 |     |<br/>
 |     |___login.dart(this file is a view)<br/>
 |<br/>
@@ -50,6 +50,6 @@ dev_dependencies:<br/>
 |<br/>
 |_____main.dart<br/>
 |<br/>
- pubspec.yaml<br/>
+_pubspec.yaml<br/>
 |<br/>
  README.md
