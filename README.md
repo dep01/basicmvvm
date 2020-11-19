@@ -20,36 +20,11 @@ dev_dependencies:<br/>
 
 ## structure folder
 
-_android<br/>
-|<br/>
-_assets<br/>
-|<br/>
-_build<br/>
-|<br/>
-_ios<br/>
-|<br/>
-_lib<br/>
-|_____app<br/>
-|_____|___locator.dart<br/>
-|_____|___routes.dart<br/>
-|_____|___third_party_app.dart<br/>
-|<br/>
-|_____model(this folder for data Model,you can generate from https://app.quicktype.io/)<br/>
-|<br/>
-|_____provider<br/>
-|<br/>
-|_____screen<br/>
-|_____|___model(this folder for ViewModel)<br/>
-|_____|___|___login_vm.dart<br/>
-|     |<br/>
-|     |___login.dart(this file is a view)<br/>
-|<br/>
-|_____utils(I use this like helper)<br/>
-|<br/>
-|_____widgets(this folder for reusable component)<br/>
-|<br/>
-|_____main.dart<br/>
-|<br/>
-_pubspec.yaml<br/>
-|<br/>
- README.md
+#!/bin/bash
+
+#File: tree-md
+
+tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
+       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
+
+printf "# Project tree\n\n${tree}"
