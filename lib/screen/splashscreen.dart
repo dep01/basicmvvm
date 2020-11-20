@@ -26,7 +26,6 @@ class SplashScreen extends ViewModelBuilderWidget<SplashScreenViewModel> {
   Widget builder(
       BuildContext context, SplashScreenViewModel model, Widget child) {
     final Function wp = Screen(context).wp;
-    final Function hp = Screen(context).hp;
     return Scaffold(
       backgroundColor: AppBaseColors.black,
       body: SizedBox(

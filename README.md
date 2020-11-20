@@ -2,7 +2,6 @@
 
 I hope you have learn the basic of flutter before you're clone it.
 
-
 ## on pubspec.yaml you need to add packages
 <pre>
 dependencies:
@@ -17,6 +16,13 @@ dev_dependencies:
    build_runner: ^1.10.0
    injectable_generator: ^0.4.1
 </pre>
+
+## Installation
+Run <pre>flutter packages get</pre> to install dependencies
+Run <pre>flutter packages pub run build_runner build --delete-conflicting-outputs</pre> to generate routes.gr.dart and locator.iconfig.dart</br>
+you just need edit routes.dart to add navigation and main.dart to define initial routes.</br>
+<b>NOTE</b> you must run <pre>flutter packages pub run build_runner build --delete-conflicting-outputs</pre> again after you edit routes.dart to generate routes.gr.dart again
+
 ## structure folder
 <pre>
 

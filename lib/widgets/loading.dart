@@ -8,7 +8,6 @@ class Loading extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Function wp = Screen(context).wp;
     final Function hp = Screen(context).hp;
 
     return Positioned(
