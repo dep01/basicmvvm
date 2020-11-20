@@ -1,8 +1,11 @@
+import 'package:basicmvvm/models/userModel.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 import 'model/home_vm.dart';
 
 class Home extends ViewModelBuilderWidget<HomeViewModel> {
+  final UserModel user;
+  Home({this.user});
   @override
   viewModelBuilder(BuildContext context) => HomeViewModel();
 
