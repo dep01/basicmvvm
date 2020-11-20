@@ -18,10 +18,10 @@ dev_dependencies:
 </pre>
 
 ## Installation
-Run <pre>flutter packages get</pre> to install dependencies
-Run <pre>flutter packages pub run build_runner build --delete-conflicting-outputs</pre> to generate routes.gr.dart and locator.iconfig.dart</br>
+Run it to install dependencies <pre>flutter packages get</pre>
+Run it to generate routes.gr.dart and locator.iconfig.dart <pre>flutter packages pub run build_runner build --delete-conflicting-outputs</pre>
 you just need edit routes.dart to add navigation and main.dart to define initial routes.</br>
-<b>NOTE</b> you must run <pre>flutter packages pub run build_runner build --delete-conflicting-outputs</pre> again after you edit routes.dart to generate routes.gr.dart again
+<b>NOTE</b> you must run again after you edit routes.dart to rebuild routes.gr.dart and locator.iconfig.dart <pre>flutter packages pub run build_runner build --delete-conflicting-outputs</pre> 
 
 ## structure folder
 <pre>
