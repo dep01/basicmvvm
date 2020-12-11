@@ -9,28 +9,24 @@ String userModelToMap(List<UserModel> data) =>
 class UserModel {
   UserModel({
     this.username,
-    this.password,
     this.firstName,
     this.lastName,
     this.email,
   });
 
   final String username;
-  final String password;
   final String firstName;
   final String lastName;
   final String email;
 
   UserModel copyWith({
     String username,
-    String password,
     String firstName,
     String lastName,
     String email,
   }) =>
       UserModel(
         username: username ?? this.username,
-        password: password ?? this.password,
         firstName: firstName ?? this.firstName,
         lastName: lastName ?? this.lastName,
         email: email ?? this.email,
@@ -38,7 +34,6 @@ class UserModel {
 
   factory UserModel.fromMap(Map<String, dynamic> json) => UserModel(
         username: json["username"],
-        password: json["password"],
         firstName: json["first_name"],
         lastName: json["last_name"],
         email: json["email"],
@@ -46,7 +41,6 @@ class UserModel {
 
   Map<String, dynamic> toMap() => {
         "username": username,
-        "password": password,
         "first_name": firstName,
         "last_name": lastName,
         "email": email,

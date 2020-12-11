@@ -1,5 +1,5 @@
 import 'package:basicmvvm/utils/constant.dart';
-import 'package:basicmvvm/widgets/loading.dart';
+import 'package:basicmvvm/widgets/loading_components.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 import 'model/splashscreen_vm.dart';
@@ -27,7 +27,7 @@ class SplashScreen extends ViewModelBuilderWidget<SplashScreenViewModel> {
       BuildContext context, SplashScreenViewModel model, Widget child) {
     final Function wp = Screen(context).wp;
     return Scaffold(
-      backgroundColor: AppBaseColors.black,
+      backgroundColor: AppBaseColors.yellow,
       body: SizedBox(
         width: wp(100),
         child: Column(
@@ -37,11 +37,11 @@ class SplashScreen extends ViewModelBuilderWidget<SplashScreenViewModel> {
             Padding(
               padding: EdgeInsets.only(bottom: 50.0),
               child: Image(
-                image: AssetImage(AppIcons.icSplash),
+                image: AssetImage(AppIcons.icFood),
                 width: 80.0,
               ),
             ),
-            LoadingBlock(Colors.amber)
+            model.loadings.loadingBlok(context, colors: Colors.orange)
           ],
         ),
       ),

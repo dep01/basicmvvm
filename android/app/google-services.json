@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "532153904292",
+    "firebase_url": "https://smartoffice-628b6.firebaseio.com",
+    "project_id": "smartoffice-628b6",
+    "storage_bucket": "smartoffice-628b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532153904292:android:68c3dc2d8c1ea4f6ff0a31",
+        "android_client_info": {
+          "package_name": "smartoffce.courier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532153904292-93acn81n6n1hleffdrtck0be4dehl2e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartoffce.courier",
+            "certificate_hash": "44b955ee31a68fe750fcadfdb5275040a8e37f54"
+          }
+        },
+        {
+          "client_id": "532153904292-je71bhncimals3nvc2svht6jeolrtgp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartoffce.courier",
+            "certificate_hash": "92a3822c1b230eab3e0c4d2db28043f711df43b0"
+          }
+        },
+        {
+          "client_id": "532153904292-9aqqolhla08gmi18vb5kk8tejp8fgr5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXc7HJjaZWuecTx6jS7VAMKBhsA_a0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532153904292-9aqqolhla08gmi18vb5kk8tejp8fgr5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532153904292:android:ea4cd964fd2be069ff0a31",
+        "android_client_info": {
+          "package_name": "smartoffice.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532153904292-kq1k6bkc8cg49tg3ld2a2tip4ruf1ls7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartoffice.customer",
+            "certificate_hash": "92a3822c1b230eab3e0c4d2db28043f711df43b0"
+          }
+        },
+        {
+          "client_id": "532153904292-9aqqolhla08gmi18vb5kk8tejp8fgr5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXc7HJjaZWuecTx6jS7VAMKBhsA_a0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532153904292-9aqqolhla08gmi18vb5kk8tejp8fgr5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532153904292:android:ba44bbd66683ca2dff0a31",
+        "android_client_info": {
+          "package_name": "smartoffice.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532153904292-m86usctu3ik06amb5a830d8547supkmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartoffice.merchant",
+            "certificate_hash": "6cbba61751cc311bf8812c1705e07ba2d456a619"
+          }
+        },
+        {
+          "client_id": "532153904292-g8f29599igpmr1rbctr7ljomgnd7e7h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartoffice.merchant",
+            "certificate_hash": "92a3822c1b230eab3e0c4d2db28043f711df43b0"
+          }
+        },
+        {
+          "client_id": "532153904292-9aqqolhla08gmi18vb5kk8tejp8fgr5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXc7HJjaZWuecTx6jS7VAMKBhsA_a0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532153904292-9aqqolhla08gmi18vb5kk8tejp8fgr5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
